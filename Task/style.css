@@ -1,0 +1,67 @@
+* {
+  margin: 10;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+#notification {
+  color: black;
+  font-weight:bold;
+}
+.addedItem {
+  text-decoration: none;
+}
+#taskAdd, #btn2 {
+
+  outline: 0;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  background-color: #3b3b3b;
+  
+}
+#taskInput{
+     color: #3b3b3b;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    background-color:#fff ;
+    border: 1px black solid;
+    width: 50%;
+    height: 32px;
+}
+.category{
+    outline: 0;
+    width: 50%;
+    height: 32px;
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 10px;
+    border: 1px black solid;
+    text-align:center;
+    
+}
+#tasksList{
+    color: #3b3b3b;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    background-color:#fff ;
+    width: 10%;
+    height: 32px;
+}
+.delete{
+color: #fff;
+font-size: 20px;
+border: none;
+cursor: pointer;
+background-color: #3b3b3b;
+
+}
+p{
+    font-size: 13px; 
+}
